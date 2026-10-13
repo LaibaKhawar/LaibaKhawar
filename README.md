@@ -14,7 +14,7 @@ Previously AI Backend Engineer at **Dataspecc**, where I built Hyperengage's Cus
 
 | Project | What it is | Stack |
 |---|---|---|
-| [AnalystOS](https://github.com/LaibaKhawar/AnalystOS) | Autonomous data analyst that verifies every number it reports. 93.3% pass rate on a 67-case benchmark; 0% unsupported numbers in final answers. [Live replay](https://laibakhawar.github.io/AnalystOS/) | FastAPI, Celery, PostgreSQL, DuckDB, sqlglot, Docker sandbox, Qwen3 |
+| [AnalystOS](https://github.com/LaibaKhawar/AnalystOS) | Autonomous data analyst that verifies every number it reports. 93.3% pass rate on a 67-case benchmark; 0% unsupported numbers in final answers. [Live app](https://analystos-six.vercel.app) · [replay](https://laibakhawar.github.io/AnalystOS/) | FastAPI, Celery, PostgreSQL, DuckDB, sqlglot, Docker sandbox, Qwen3, Modal, Vercel |
 | [Veriflow](https://github.com/LaibaKhawar/AgenticAIPlatform) | Seven-agent investigation platform with task DAGs, retries, approval gates, and three-stage claim verification. | FastAPI, Celery, PostgreSQL + pgvector, Redis, Next.js |
 | [Voice AI Patient Registration](https://github.com/LaibaKhawar/voice-ai-patient-registration) | Phone agent that registers patients, with server-enforced validation, read-back, and idempotent saves. | Vapi, GPT-4.1, FastAPI, PostgreSQL, Next.js |
 | [Netflix Q&A](https://github.com/LaibaKhawar/Netflix-QA-ChatBot) | RAG chatbot with exact-lookup routing and source attribution. | LangChain, Chroma, MiniLM, Groq |
